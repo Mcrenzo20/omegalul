@@ -44,6 +44,9 @@ h2 {
     -webkit-transform:rotate(11deg); /* Opera, Chrome, and Safari */
 }
 
+.logo:hover {
+  text-decoration: none;
+}
 .my_headline_font_size {
     font-size: 24px;
 }
